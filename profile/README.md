@@ -64,7 +64,7 @@ Get started in the docs:
 - [Vedic chart](https://www.freeastroapi.com/docs/vedic/chart)
 - [City search](https://www.freeastroapi.com/docs/geo/search)
 - [Starter kits](https://www.freeastroapi.com/docs/utilities/starter-kits)
---[LLM file](https://www.freeastroapi.com/docs/utilities/starter-kits](http://freeastroapi.com/llms.txt)
+- [LLM file](https://www.freeastroapi.com/docs/utilities/starter-kits](http://freeastroapi.com/llms.txt)
 
 ## API Coverage
 
