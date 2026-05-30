@@ -1,6 +1,6 @@
 <div align="center">
   <h1>FreeAstroAPI</h1>
-  <p><strong>Astrology APIs and open-source starter kits for commercial apps, websites, and client tools.</strong></p>
+  <p><strong>Free Astrology APIs and open-source starter kits for commercial apps, websites, and client tools.</strong></p>
   <p>
     <a href="https://www.freeastroapi.com">Website</a>
     ·
@@ -18,7 +18,7 @@
 
 ## Build Astrology Products Faster
 
-FreeAstroAPI provides hosted astrology calculation endpoints, visual chart rendering, and deployable starter projects for teams building astrology products.
+FreeAstroAPI provides hosted astrology calculation endpoints, visual chart rendering (both for vedic and western charts, and deployable starter projects for teams building astrology products.
 
 Use the API to add natal charts, compatibility, transits, horoscopes, Vedic Kundli tools, Chinese astrology, moon data, city search, and SVG chart generation without maintaining your own ephemeris infrastructure.
 
@@ -64,6 +64,7 @@ Get started in the docs:
 - [Vedic chart](https://www.freeastroapi.com/docs/vedic/chart)
 - [City search](https://www.freeastroapi.com/docs/geo/search)
 - [Starter kits](https://www.freeastroapi.com/docs/utilities/starter-kits)
+--[LLM file]([https://www.freeastroapi.com/docs/utilities/starter-kits](http://freeastroapi.com/llms.txt))
 
 ## API Coverage
 
