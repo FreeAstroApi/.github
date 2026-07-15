@@ -1,6 +1,6 @@
 <div align="center">
   <h1>FreeAstroAPI</h1>
-  <p><strong>Free Astrology APIs and open-source starter kits for commercial apps, websites, and client tools.</strong></p>
+  <p><strong>Hosted proprietary astrology APIs, with a public API contract and open-source starter kits for commercial apps, websites, and client tools.</strong></p>
   <p>
     <a href="https://www.freeastroapi.com">Website</a>
     ·
@@ -18,7 +18,7 @@
 
 ## Build Astrology Products Faster
 
-FreeAstroAPI provides hosted astrology calculation endpoints, visual chart rendering (both for vedic and western charts, and deployable starter projects for teams building astrology products.
+FreeAstroAPI provides a proprietary hosted astrology calculation service, visual chart rendering for Vedic and Western charts, and deployable starter projects for teams building astrology products.
 
 Use the API to add natal charts, compatibility, transits, horoscopes, Vedic Kundli tools, Chinese astrology, moon data, city search, and SVG chart generation without maintaining your own ephemeris infrastructure.
 
@@ -31,13 +31,18 @@ Use the API to add natal charts, compatibility, transits, horoscopes, Vedic Kund
 - Daily horoscope, transit timeline, moon phase, and city autocomplete tools
 - Commercial astrology apps that keep API keys server-side
 
-## Open-Source Starters
+## Public Contract and Open-Source Starters
 
 | Repository | What it is | Stack |
 | --- | --- | --- |
+| [freeastro-api-spec](https://github.com/FreeAstroApi/freeastro-api-spec) | Official public OpenAPI 3.1 contract, JSON Schemas, and synthetic examples | OpenAPI, JSON Schema |
 | [open-chart](https://github.com/FreeAstroApi/open-chart) | Production-ready natal chart and interpretation app powered by FreeAstroAPI | Next.js, TypeScript, Tailwind |
 | [Kundli-birth-chart-free](https://github.com/FreeAstroApi/Kundli-birth-chart-free) | Free AstroSage-style Vedic Kundli chart calculator and client tool | Next.js, TypeScript, Tailwind |
 | [wordpress-Astrology-plugin](https://github.com/FreeAstroApi/wordpress-Astrology-plugin) | WordPress plugin with astrology blocks, settings, and FreeAstroAPI proxy routes | PHP, WordPress |
+
+## Source Availability
+
+The hosted FreeAstro API service, backend, calculation engine, frontend, infrastructure, algorithms, datasets, and interpretation content are proprietary and are not open source. Materials already published in public repositories remain available under the licenses stated in those repositories. The public API contract is licensed under Apache License 2.0; starter kits retain their own repository licenses.
 
 ## API Quickstart
 
@@ -64,7 +69,7 @@ Get started in the docs:
 - [Vedic chart](https://www.freeastroapi.com/docs/vedic/chart)
 - [City search](https://www.freeastroapi.com/docs/geo/search)
 - [Starter kits](https://www.freeastroapi.com/docs/utilities/starter-kits)
-- [LLM file](https://www.freeastroapi.com/docs/utilities/starter-kits](http://freeastroapi.com/llms.txt)
+- [LLM file](https://www.freeastroapi.com/llms.txt)
 
 ## API Coverage
 
